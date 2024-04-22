@@ -6,3 +6,4 @@ print("Total score:",total_score)
 print("한번더 수정해보자")
 #수정하여 실습 내용 다시 구현해보기
 #print("I love you so much")
+print("안녕하십니까 김주연입니다.수정해보았습니다")
